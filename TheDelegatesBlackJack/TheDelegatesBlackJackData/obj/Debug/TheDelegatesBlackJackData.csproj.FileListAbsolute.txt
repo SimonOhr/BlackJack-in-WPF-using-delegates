@@ -1,0 +1,12 @@
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.csprojResolveAssemblyReference.cache
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.csproj.CoreCompileInputs.cache
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackData\bin\Debug\TheDelegatesBlackJackData.dll
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackData\bin\Debug\TheDelegatesBlackJackData.pdb
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.dll
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.pdb
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackData\bin\Debug\TheDelegatesBlackJackData.dll
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackData\bin\Debug\TheDelegatesBlackJackData.pdb
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.dll
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.pdb
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.csprojResolveAssemblyReference.cache

@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="TheDelegatesBlackJack.PlayerController"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TheDelegatesBlackJack"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">   
+    <Grid x:Name="PlayerControllerGrid" Background="#FFAAA8C9">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!--Player-->      
+        <TextBlock x:Name="PlayerNameOutput" Grid.Row = "0" Grid.Column = "0" Margin = "10,22,0,22"  
+         HorizontalAlignment = "Center" VerticalAlignment = "Center" Width = "200" Background="SlateGray" FontWeight="Bold" TextAlignment="Center" ToolTip="Shows the current player"/>
+        <!--Card Output-->
+        <TextBlock x:Name="PlayerCardOutput" Grid.Row="1" Grid.Column="0" Margin="20,20,20,20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="180"  Height="160"
+                 Background="SlateGray" FontWeight="Bold"/>
+        <!--<ListBoxItem HorizontalAlignment="Center" VerticalAlignment="Center" Focusable="False" IsTabStop="False">Words</ListBoxItem>
+            <ListBoxItem HorizontalAlignment="Center" VerticalAlignment="Center" Focusable="False" IsTabStop="False">Card1</ListBoxItem>
+            <ListBoxItem HorizontalAlignment="Center" VerticalAlignment="Center" Focusable="False" IsTabStop="False">Card1</ListBoxItem>
+            <ListBoxItem HorizontalAlignment="Center" VerticalAlignment="Center" Focusable="False" IsTabStop="False">Card1</ListBoxItem>
+            <ListBoxItem HorizontalAlignment="Center" VerticalAlignment="Center" Focusable="False" IsTabStop="False">Card1</ListBoxItem>
+            -->
+
+        <!--Score-->
+        <TextBox x:Name="PlayerScoreOutput" Grid.Row="2" Margin="20,20,20,20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Background="SlateGray" FontWeight="Bold" TextAlignment="Center"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,17 @@
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackLogic.dll
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackLogic.pdb
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.csproj.CoreCompileInputs.cache
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.dll
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.pdb
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.csprojResolveAssemblyReference.cache
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackData.dll
+C:\Users\ag9194\source\repos\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackData.pdb
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackLogic.dll
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackLogic.pdb
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackData.dll
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackData.pdb
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.csproj.CopyComplete
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.dll
+C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.pdb
