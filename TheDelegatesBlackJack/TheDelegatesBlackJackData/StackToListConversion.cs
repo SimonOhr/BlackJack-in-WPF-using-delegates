@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace TheDelegatesBlackJackData
 {
@@ -16,10 +12,9 @@ namespace TheDelegatesBlackJackData
         public static List<T> StackToList(Stack<T> stack)
         {
             List<T> temp = new List<T>();
-            for (int i = 0; i < stack.Count; i++)
-            {
+            for (int i = 0; i < stack.Count; i++)            
                 temp.Add(stack.Pop());
-            }
+            
             return temp;
         }
     }

@@ -1,17 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+﻿using System.Windows.Controls;
 using TheDelegatesBlackJackData;
 
 
@@ -24,6 +11,7 @@ namespace TheDelegatesBlackJack
     {
         public string PlayerName { get; private set; }      
         public int PlayerScore { get; set; }
+
         public PlayerController()
         {                   
             InitializeComponent();
@@ -47,19 +35,21 @@ namespace TheDelegatesBlackJack
             }
 
             PlayerScoreOutput.Text = args.Player.Score.ToString();
-
+            var playerState = "";
             if (args.Player.HasLost)
-                Message("Loser");
+                playerState = "Loser";
             else if (args.Player.IsWinner)
-                Message("Winner");
+                playerState = "Winner";
             else
-                Message(null);
-        }
+                playerState = "";
 
-        void Message(string value)
-        {
-            if (value != null)
-                PlayerCardOutput.Text = value;
+            if (playerState != "")
+                Message(playerState);
         }
+        /// <summary>
+        /// User feedback, win, lose or not
+        /// </summary>
+        /// <param name="value"></param>
+        void Message(string value) => PlayerCardOutput.Text = value;
     }
 }

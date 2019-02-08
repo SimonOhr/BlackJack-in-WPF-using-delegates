@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using TheDelegatesBlackJackData;
 
 namespace TheDelegatesBlackJackLogic
@@ -23,10 +19,9 @@ namespace TheDelegatesBlackJackLogic
         /// <returns></returns>
         public List<Card> ReturnListDecks()
         {
-            for (int i = 0; i < count; i++)
-            {
+            for (int i = 0; i < count; i++)            
                 decks.AddRange(ConstructDeck());
-            }
+            
             return decks;
         }
         /// <summary>
@@ -35,10 +30,9 @@ namespace TheDelegatesBlackJackLogic
         /// <returns></returns>
         public Stack<Card> ReturnStackDecks()
         {
-            for (int i = 0; i < count; i++)
-            {
+            for (int i = 0; i < count; i++)            
                 decks.AddRange(ConstructDeck());
-            }
+            
             return ListToStackConversion<Card>.ListToStack(decks); ;
         }
         /// <summary>

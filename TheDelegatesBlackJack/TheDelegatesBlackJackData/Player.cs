@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TheDelegatesBlackJackData;
+﻿using System.Collections.Generic;
 
 namespace TheDelegatesBlackJackData
 {
@@ -35,10 +30,8 @@ namespace TheDelegatesBlackJackData
         /// adds a card to teh player
         /// </summary>
         /// <param name="_card"></param>
-        public void DrawCard(Card _card)
-        {
-            Cards.Add(_card);
-        }
+        public void DrawCard(Card _card) => Cards.Add(_card);
+       
         /// <summary>
         /// calculates the score of the player
         /// </summary>
@@ -46,10 +39,9 @@ namespace TheDelegatesBlackJackData
         int CalcScore()
         {
             var temp = 0;
-            foreach (Card item in Cards)
-            {
+            foreach (Card item in Cards)            
                 temp += item.Value;
-            }
+            
             if (temp > 21)
                 HasLost = true;
             return temp;

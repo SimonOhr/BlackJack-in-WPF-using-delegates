@@ -15,3 +15,12 @@ C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\De
 C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.csproj.CopyComplete
 C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.dll
 C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.pdb
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackLogic.dll
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackLogic.pdb
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackData.dll
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\bin\Debug\TheDelegatesBlackJackData.pdb
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.csprojAssemblyReference.cache
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.csproj.CoreCompileInputs.cache
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.csproj.CopyComplete
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.dll
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackLogic\obj\Debug\TheDelegatesBlackJackLogic.pdb

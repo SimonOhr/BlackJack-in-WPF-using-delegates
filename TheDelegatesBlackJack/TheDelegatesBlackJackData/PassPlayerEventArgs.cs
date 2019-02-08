@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TheDelegatesBlackJackData
 {
@@ -12,9 +8,6 @@ namespace TheDelegatesBlackJackData
     public class PassPlayerEventArgs : EventArgs
     {
         public Player Player { get; }
-        public PassPlayerEventArgs(Player _player)
-        {
-            Player = _player;
-        }
+        public PassPlayerEventArgs(Player _player) => Player = _player;      
     }
 }

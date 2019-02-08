@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TheDelegatesBlackJackData;
 
 namespace TheDelegatesBlackJackLogic
@@ -31,8 +29,8 @@ namespace TheDelegatesBlackJackLogic
             activeCards.Clear();
             players.Clear();
             viewNextIterator = 0;
-            originDeckSize = args.Decks;         
 
+            originDeckSize = args.Decks;         
             SetupDecks(args.Decks);
             SetupPlayers(args.Players);
             SetupDealer();           
@@ -47,10 +45,9 @@ namespace TheDelegatesBlackJackLogic
         {
             List<Card> temp = new DeckBuilder(_amount).ReturnListDecks();
             temp.Shuffle();
-            foreach (Card item in temp)
-            {
+            foreach (Card item in temp)            
                 activeCards.Push(item);
-            }
+            
         }
         /// <summary>
         /// initiates, and adds teh players
@@ -61,10 +58,9 @@ namespace TheDelegatesBlackJackLogic
         {
             Card poppedCard;
 
-            for (int i = 0; i < _amount; i++)
-            {
+            for (int i = 0; i < _amount; i++)            
                 players.Add(new Player(i));
-            }
+            
 
             foreach (Player item in players)
             {
@@ -120,15 +116,13 @@ namespace TheDelegatesBlackJackLogic
         {
             if (activeCards.Count < 10 || force)
             {
-                for (int i = 0; i < activeCards.Count; i++)
-                {
+                for (int i = 0; i < activeCards.Count; i++)                
                     nonActiveCards.Add(activeCards.Pop());
-                }
+                
                 nonActiveCards.Shuffle();
-                for (int i = 0; i < nonActiveCards.Count; i++)
-                {
-                    activeCards.Push(nonActiveCards[i]);
-                }
+
+                for (int i = 0; i < nonActiveCards.Count; i++)                
+                    activeCards.Push(nonActiveCards[i]);                
             }
         }
         /// <summary>

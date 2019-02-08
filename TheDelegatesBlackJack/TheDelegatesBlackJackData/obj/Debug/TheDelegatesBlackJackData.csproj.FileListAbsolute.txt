@@ -10,3 +10,9 @@ C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Deb
 C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.dll
 C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.pdb
 C:\Users\Simon\Downloads\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.csprojResolveAssemblyReference.cache
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackData\bin\Debug\TheDelegatesBlackJackData.dll
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackData\bin\Debug\TheDelegatesBlackJackData.pdb
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.csprojAssemblyReference.cache
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.csproj.CoreCompileInputs.cache
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.dll
+D:\githubstuff\NEWGITDUMP\BlackJack-in-WPF-using-delegates\TheDelegatesBlackJack\TheDelegatesBlackJackData\obj\Debug\TheDelegatesBlackJackData.pdb
